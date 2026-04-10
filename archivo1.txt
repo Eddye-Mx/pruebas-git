@@ -5,4 +5,8 @@ a feature using live validation in the integrated browser, and delegate a homepa
 a pull request for your team to review.
 
 About
+<<<<<<< HEAD
 No description, website, or topics provided Charlie.
+=======
+No description, website, or topics provided Michelle.
+>>>>>>> main
